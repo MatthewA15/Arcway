@@ -30,7 +30,7 @@
 
 Candidates picked a role, spoke their answers out loud to an AI interviewer, and got structured feedback within seconds of finishing. The goal was to make interview prep feel like the real thing instead of reading flashcards.
 
-I built and ran Arcway through 2025 and 2026. It reached 30+ users and 700+ AI conducted interviews before I made the call to sunset it and point my time at a clearer opportunity.
+I built and ran Arcway through 2025 and 2026. It reached 30+ users and 200+ AI conducted interviews before I made the call to sunset it and point my time at a clearer opportunity.
 
 ## How it worked
 
@@ -57,7 +57,7 @@ flowchart LR
 | | |
 |---|---|
 | Registered users | **30+** |
-| Interviews conducted | **700+** |
+| Interviews conducted | **200+** |
 | Avg interviews per user | **~23** |
 
 ## What I learned
@@ -66,7 +66,7 @@ flowchart LR
 
 **Whisper was the right call for voice.** Interview answers are long, conversational and full of technical vocabulary. Browser speech APIs choked on them. Whisper handled them cleanly at a latency that worked fine for a turn based format.
 
-**Real users find problems you never will.** 700+ interviews of actual usage drove more iteration than any amount of my own testing.
+**Real users find problems you never will.** 200+ interviews of actual usage drove more iteration than any amount of my own testing.
 
 **Knowing when to stop is a skill.** The platform worked. I shut it down anyway, because the traction proved the build but the next year of my time was worth more pointed at a clearer opportunity.
 
