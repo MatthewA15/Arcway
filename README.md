@@ -5,7 +5,7 @@
 **AI interview practice that felt like the real thing**
 
 ![Users](https://img.shields.io/badge/Users-30%2B-6366f1?style=for-the-badge)
-![Interviews](https://img.shields.io/badge/AI_Interviews-700%2B-8b5cf6?style=for-the-badge)
+![Interviews](https://img.shields.io/badge/AI_Interviews-200%2B-8b5cf6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Sunset_2026-64748b?style=for-the-badge)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
